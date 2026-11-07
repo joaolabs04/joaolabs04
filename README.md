@@ -2,73 +2,123 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/joaolabs04/joaolabs04/main/assets/cyber-banner.svg" alt="Large green 3D geometric cyber banner" />
+<img width="100%" src="https://raw.githubusercontent.com/joaolabs04/joaolabs04/main/assets/cyber-banner.svg" alt="Banner geométrico 3D em verde e preto" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=00D98B&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+desenvolvimento+%26+ciberseguran%C3%A7a;Python+%7C+Web+%7C+Redes+%7C+Tecnologia;Aprender.+Construir.+Evoluir." alt="Texto animado com áreas de estudo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=850&color=00E6A0&center=true&vCenter=true&width=820&height=55&lines=Estudante+de+ADS;Explorando+Ciberseguran%C3%A7a+%26+Desenvolvimento;Python+%2F+Web+%2F+Redes+%2F+Linux;Transformando+curiosidade+em+projetos;BUILD.+LEARN.+SECURE." alt="Apresentação animada" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=joaolabs04&style=for-the-badge&color=00B981&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/joaolabs04?style=for-the-badge&color=00B981&labelColor=050807&label=FOLLOWERS" alt="Seguidores do GitHub" />
 
 </div>
 
----
+<br>
 
-## 01 / Sobre mim
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E6A0,50:0A241B,100:00E6A0" alt="" />
+</div>
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, interessado em desenvolvimento de software, tecnologia e segurança da informação. Busco transformar aprendizado em projetos práticos, fortalecer minha base técnica e evoluir continuamente como desenvolvedor.
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-00B981?style=flat-square&labelColor=050807" />
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, interessado em desenvolvimento de software, tecnologia e segurança da informação. Gosto de aprender na prática, explorar novas ferramentas e transformar conhecimento em projetos.
 
 ```bash
-$ whoami
-  estudante de ADS
+┌──[joao@dev]─[~]
+└─$ whoami
+   ADS student | Developer in progress
 
-$ interests
-  desenvolvimento web
-  cibersegurança
-  redes e Python
+└─$ interests
+   web-development • cybersecurity • python • networks
 
-$ current_status
-  estudando | praticando | construindo
+└─$ mission
+   learn continuously / build useful things / keep improving
 ```
 
-## 02 / Tecnologias e ferramentas
+## <img src="https://img.shields.io/badge/02-TECH_STACK-00B981?style=flat-square&labelColor=050807" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Python, Git, GitHub e VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Currently_learning-Linux-00B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=050807" />
+<img src="https://img.shields.io/badge/Exploring-Cybersecurity-00B981?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=050807" />
 
 </div>
 
-## 03 / Em desenvolvimento
+## <img src="https://img.shields.io/badge/03-CURRENT_FOCUS-00B981?style=flat-square&labelColor=050807" />
 
-- Fundamentos de programação e lógica
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 — Development**
+- Lógica de programação
 - Desenvolvimento web
 - Python e automação
-- Redes e fundamentos de cibersegurança
-- Git, GitHub e boas práticas de desenvolvimento
 
-## 04 / Projeto em destaque
+</td>
+<td width="50%" valign="top">
 
-### [Garage Hair ERP](https://github.com/joaolabs04/Garage-Hair-ERP)
+**02 — Security**
+- Fundamentos de redes
+- Linux e linha de comando
+- Fundamentos de cibersegurança
 
-Projeto acadêmico voltado à modelagem e organização de um sistema de gestão para barbearia, envolvendo requisitos, regras de negócio, diagramas e estrutura de dados.
+</td>
+</tr>
+</table>
 
-**Foco:** análise de sistemas · modelagem de dados · organização de requisitos
+## <img src="https://img.shields.io/badge/04-FEATURED_PROJECT-00B981?style=flat-square&labelColor=050807" />
 
-## 05 / GitHub
+<a href="https://github.com/joaolabs04/Garage-Hair-ERP">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=joaolabs04&repo=Garage-Hair-ERP&hide_border=true&bg_color=050807&title_color=00E6A0&icon_color=00E6A0&text_color=E9FFF5" alt="Projeto Garage Hair ERP" />
+</a>
+
+Projeto acadêmico de sistema de gestão para barbearia, com foco em requisitos, regras de negócio, modelagem de dados e organização de sistemas.
+
+## <img src="https://img.shields.io/badge/05-GITHUB_ANALYTICS-00B981?style=flat-square&labelColor=050807" />
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=joaolabs04&show_icons=true&hide_border=true&bg_color=050807&title_color=00D98B&icon_color=00D98B&text_color=E9FFF5&ring_color=00D98B" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaolabs04&show_icons=true&hide_border=true&bg_color=050807&title_color=00E6A0&icon_color=00E6A0&text_color=E9FFF5&rank_icon=github" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolabs04&layout=compact&hide_border=true&bg_color=050807&title_color=00E6A0&text_color=E9FFF5" alt="Linguagens mais usadas" />
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolabs04&layout=compact&hide_border=true&bg_color=050807&title_color=00D98B&text_color=E9FFF5" alt="Linguagens mais utilizadas" />
+<br>
+
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaolabs04&hide_border=true&background=050807&ring=00E6A0&fire=00E6A0&currStreakLabel=00E6A0&sideLabels=E9FFF5&currStreakNum=E9FFF5&sideNums=E9FFF5&dates=8A9992" alt="Sequência de contribuições" />
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaolabs04&bg_color=050807&color=E9FFF5&line=00E6A0&point=00E6A0&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Gráfico de atividade no GitHub" />
 
 </div>
 
----
+## <img src="https://img.shields.io/badge/06-CONNECT-00B981?style=flat-square&labelColor=050807" />
 
 <div align="center">
 
-**BUILD WITH PURPOSE · KEEP LEARNING · STAY CURIOUS**
+<a href="https://github.com/joaolabs04">
+  <img src="https://img.shields.io/badge/GitHub-joaolabs04-00B981?style=for-the-badge&logo=github&logoColor=white&labelColor=050807" alt="GitHub" />
+</a>
 
-<sub>Perfil em constante evolução.</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E6A0,50:0A241B,100:00E6A0" alt="" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=1000&color=00E6A0&center=true&vCenter=true&width=600&lines=STAY+CURIOUS.;KEEP+BUILDING.;MAKE+IT+SECURE." alt="Mensagem final animada" />
+
+<sub>Perfil em constante evolução • Atualizado com propósito</sub>
 
 </div>

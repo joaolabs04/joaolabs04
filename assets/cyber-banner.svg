@@ -1,37 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020706"/><stop offset=".55" stop-color="#06251a"/><stop offset="1" stop-color="#010403"/></linearGradient>
-  <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00f5a0" stop-opacity=".9"/><stop offset=".55" stop-color="#08784e" stop-opacity=".62"/><stop offset="1" stop-color="#022c20" stop-opacity=".9"/></linearGradient>
-  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9affd6"/><stop offset=".45" stop-color="#00e68a"/><stop offset="1" stop-color="#08744c"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#38e9a0" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020403"/><stop offset=".55" stop-color="#07110b"/><stop offset="1" stop-color="#000"/></linearGradient>
+ <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#73ff00"/><stop offset=".5" stop-color="#00ff66"/><stop offset="1" stop-color="#00b84a"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="scan" width="4" height="6" patternUnits="userSpaceOnUse"><path d="M0 5H4" stroke="#9aff00" stroke-opacity=".07"/></pattern>
 </defs>
-<rect width="1500" height="420" rx="18" fill="url(#bg)"/>
-<rect width="1500" height="420" rx="18" fill="url(#grid)"/>
-<path d="M0 340L260 210 420 420H0Z" fill="#00d98b" opacity=".05"/>
-<path d="M1080 0L1500 0 1500 420 1320 420Z" fill="#00d98b" opacity=".045"/>
-<!-- large faceted 3D emerald structure -->
-<g transform="translate(1110 210)" filter="url(#glow)">
- <path d="M0 -170L148 -85L148 85L0 170L-148 85L-148 -85Z" fill="#031b13" stroke="url(#edge)" stroke-width="3"/>
- <path d="M0 -170L148 -85L0 0L-148 -85Z" fill="#0b704a" fill-opacity=".88" stroke="#5dffc0" stroke-opacity=".85" stroke-width="2"/>
- <path d="M-148 -85L0 0L0 170L-148 85Z" fill="#06452f" fill-opacity=".95" stroke="#00e69a" stroke-width="2"/>
- <path d="M148 -85L0 0L0 170L148 85Z" fill="url(#face)" stroke="#9affd6" stroke-opacity=".8" stroke-width="2"/>
- <path d="M0 -170V0M0 0L148 -85M0 0L-148 -85M0 0V170" fill="none" stroke="#c2ffe5" stroke-opacity=".65" stroke-width="2"/>
- <path d="M-92 -117L0 -65L92 -117M-92 117L0 65L92 117" fill="none" stroke="#00f5a0" stroke-opacity=".5" stroke-width="1.5"/>
- <path d="M-215 0L-148 -85M148 85L215 0M0 -235V-170M0 170V235" stroke="#00f5a0" stroke-width="2" stroke-opacity=".7" fill="none"/>
+<rect width="1500" height="420" fill="url(#bg)"/>
+<rect width="1500" height="420" fill="url(#scan)"/>
+<g font-family="monospace" fill="#48ff83" opacity=".23" font-size="15">
+ <text x="35" y="38">01001000 01000001 01000011 01001011</text>
+ <text x="35" y="62">0x7F 0x45 0x4C 0x46 // SECURE SHELL</text>
+ <text x="35" y="86">ACCESS_LAYER :: ENCRYPTED_CHANNEL</text>
+ <text x="1120" y="40">TRACE: 0x00A91F</text>
+ <text x="1120" y="64">NODE_STATUS: ACTIVE</text>
+ <text x="1120" y="88">FIREWALL: ENABLED</text>
 </g>
-<g transform="translate(1110 210)" fill="none" stroke="#00e99a" stroke-opacity=".34">
- <circle r="208" stroke-width="1.5" stroke-dasharray="7 13"/>
- <circle r="235" stroke-width="1" stroke-dasharray="2 14"/>
- <ellipse rx="280" ry="110" transform="rotate(-28)" stroke-width="1.2"/>
+<!-- matrix-like code columns -->
+<g font-family="monospace" font-size="18" fill="#39ff72" opacity=".32">
+ <text x="90" y="145">0101<tspan x="90" dy="22">1100</tspan><tspan x="90" dy="22">0010</tspan><tspan x="90" dy="22">1011</tspan><tspan x="90" dy="22">0110</tspan><tspan x="90" dy="22">1001</tspan></text>
+ <text x="1320" y="155">1010<tspan x="1320" dy="22">0011</tspan><tspan x="1320" dy="22">1100</tspan><tspan x="1320" dy="22">0101</tspan><tspan x="1320" dy="22">1110</tspan><tspan x="1320" dy="22">0001</tspan></text>
+ <text x="1240" y="275">0xAF21<tspan x="1240" dy="22">0xB03C</tspan><tspan x="1240" dy="22">0x19DE</tspan></text>
+ <text x="220" y="350">101101 001011 110010 010101</text>
 </g>
-<g fill="#71ffc3" opacity=".8"><circle cx="790" cy="80" r="2"/><circle cx="920" cy="340" r="2"/><circle cx="1360" cy="80" r="2"/><circle cx="1000" cy="115" r="1.5"/><circle cx="1280" cy="340" r="2"/></g>
-<g font-family="JetBrains Mono,Consolas,monospace">
- <text x="105" y="105" fill="#62fbb8" font-size="16" letter-spacing="5">DIGITAL SYSTEMS / SECURITY LAB</text>
- <text x="100" y="210" fill="#eafff5" font-size="64" font-weight="700" letter-spacing="1">CYBER / DIGITAL</text>
- <path d="M105 238H715" stroke="#00e69a" stroke-width="3"/>
- <text x="108" y="280" fill="#9bfbd0" font-size="17" letter-spacing="3">DEVELOPMENT  •  NETWORKS  •  SECURITY</text>
- <text x="108" y="345" fill="#3cbd8a" font-size="12" letter-spacing="4">SYSTEM ONLINE  //  CONTINUOUS LEARNING</text>
+<!-- angular HUD frame -->
+<g fill="none" stroke="#50ff76" filter="url(#glow)">
+ <path d="M300 112V82H340M1160 82H1200V112M300 308V338H340M1160 338H1200V308" stroke-width="2"/>
+ <path d="M315 125H1185V295H315Z" stroke-opacity=".25" stroke-width="1"/>
+ <path d="M285 210H335M1165 210H1215M750 65V92M750 328V355" stroke-opacity=".7" stroke-width="1.5"/>
 </g>
-<path d="M30 30H85M30 30V85M1470 30H1415M1470 30V85M30 390H85M30 390V335M1470 390H1415M1470 390V335" fill="none" stroke="#00e99a" stroke-opacity=".7" stroke-width="2"/>
+<!-- central cyber terminal panel -->
+<rect x="360" y="105" width="780" height="210" rx="8" fill="#020804" fill-opacity=".9" stroke="#31ff70" stroke-opacity=".7"/>
+<path d="M360 140H1140" stroke="#31ff70" stroke-opacity=".4"/>
+<g font-family="monospace">
+ <circle cx="383" cy="123" r="5" fill="#ff5b5b"/><circle cx="401" cy="123" r="5" fill="#e7d64a"/><circle cx="419" cy="123" r="5" fill="#42ed77"/>
+ <text x="445" y="128" fill="#70ff91" font-size="12" letter-spacing="2">ROOT@JOAOLABS : ~/CYBER-LAB</text>
+ <text x="405" y="180" fill="#66ff89" font-size="17">$ ./initialize_security.sh</text>
+ <text x="405" y="220" fill="#eaffef" font-size="55" font-weight="bold" letter-spacing="2" filter="url(#glow)">CYBER<span fill="#8cff00">_</span>DIGITAL</text>
+ <text x="407" y="258" fill="#7dff9d" font-size="15" letter-spacing="3">[ CODE ]  [ NETWORKS ]  [ SECURITY ]</text>
+ <text x="405" y="290" fill="#39c96b" font-size="12">STATUS: LEARNING MODE ENABLED <tspan fill="#aaff00">▮</tspan></text>
+</g>
+<!-- side telemetry -->
+<g font-family="monospace" font-size="11" fill="#55ff83">
+ <text x="65" y="260">SYS.MONITOR</text><path d="M65 275H235" stroke="#37ff72" stroke-opacity=".45"/>
+ <path d="M65 300L82 300 91 282 103 317 116 290 129 300 145 300 155 278 168 309 180 300 235 300" fill="none" stroke="#4aff7c" stroke-width="2"/>
+ <text x="65" y="330">CPU  //  ONLINE</text>
+ <text x="1260" y="260">PACKET FLOW</text><path d="M1260 275H1435" stroke="#37ff72" stroke-opacity=".45"/>
+ <path d="M1260 300H1280L1292 287 1305 313 1320 292 1335 300H1350L1365 280 1380 309 1395 300H1435" fill="none" stroke="#4aff7c" stroke-width="2"/>
+ <text x="1260" y="330">NETWORK // ACTIVE</text>
+</g>
+<g stroke="#7cff00" stroke-opacity=".35" stroke-width="1">
+ <path d="M20 20H55M20 20V55M1480 20H1445M1480 20V55M20 400H55M20 400V365M1480 400H1445M1480 400V365"/>
+ <path d="M0 390H1500" stroke-dasharray="3 12"/>
+</g>
 </svg>

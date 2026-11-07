@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/joaolabs04/joaolabs04/main/assets/cyber-banner.svg" alt="Banner geométrico 3D em verde e preto" />
+<img width="100%" src="https://raw.githubusercontent.com/joaolabs04/joaolabs04/main/assets/cyber-banner.svg" alt="Banner abstrato 3D de tecnologia com luzes azul, ciano e violeta" />
 
 <br>
 

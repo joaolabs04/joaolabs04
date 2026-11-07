@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020706"/><stop offset=".55" stop-color="#06251a"/><stop offset="1" stop-color="#010403"/></linearGradient>
+  <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00f5a0" stop-opacity=".9"/><stop offset=".55" stop-color="#08784e" stop-opacity=".62"/><stop offset="1" stop-color="#022c20" stop-opacity=".9"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9affd6"/><stop offset=".45" stop-color="#00e68a"/><stop offset="1" stop-color="#08744c"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#38e9a0" stroke-opacity=".10" stroke-width="1"/></pattern>
+</defs>
+<rect width="1500" height="420" rx="18" fill="url(#bg)"/>
+<rect width="1500" height="420" rx="18" fill="url(#grid)"/>
+<path d="M0 340L260 210 420 420H0Z" fill="#00d98b" opacity=".05"/>
+<path d="M1080 0L1500 0 1500 420 1320 420Z" fill="#00d98b" opacity=".045"/>
+<!-- large faceted 3D emerald structure -->
+<g transform="translate(1110 210)" filter="url(#glow)">
+ <path d="M0 -170L148 -85L148 85L0 170L-148 85L-148 -85Z" fill="#031b13" stroke="url(#edge)" stroke-width="3"/>
+ <path d="M0 -170L148 -85L0 0L-148 -85Z" fill="#0b704a" fill-opacity=".88" stroke="#5dffc0" stroke-opacity=".85" stroke-width="2"/>
+ <path d="M-148 -85L0 0L0 170L-148 85Z" fill="#06452f" fill-opacity=".95" stroke="#00e69a" stroke-width="2"/>
+ <path d="M148 -85L0 0L0 170L148 85Z" fill="url(#face)" stroke="#9affd6" stroke-opacity=".8" stroke-width="2"/>
+ <path d="M0 -170V0M0 0L148 -85M0 0L-148 -85M0 0V170" fill="none" stroke="#c2ffe5" stroke-opacity=".65" stroke-width="2"/>
+ <path d="M-92 -117L0 -65L92 -117M-92 117L0 65L92 117" fill="none" stroke="#00f5a0" stroke-opacity=".5" stroke-width="1.5"/>
+ <path d="M-215 0L-148 -85M148 85L215 0M0 -235V-170M0 170V235" stroke="#00f5a0" stroke-width="2" stroke-opacity=".7" fill="none"/>
+</g>
+<g transform="translate(1110 210)" fill="none" stroke="#00e99a" stroke-opacity=".34">
+ <circle r="208" stroke-width="1.5" stroke-dasharray="7 13"/>
+ <circle r="235" stroke-width="1" stroke-dasharray="2 14"/>
+ <ellipse rx="280" ry="110" transform="rotate(-28)" stroke-width="1.2"/>
+</g>
+<g fill="#71ffc3" opacity=".8"><circle cx="790" cy="80" r="2"/><circle cx="920" cy="340" r="2"/><circle cx="1360" cy="80" r="2"/><circle cx="1000" cy="115" r="1.5"/><circle cx="1280" cy="340" r="2"/></g>
+<g font-family="JetBrains Mono,Consolas,monospace">
+ <text x="105" y="105" fill="#62fbb8" font-size="16" letter-spacing="5">DIGITAL SYSTEMS / SECURITY LAB</text>
+ <text x="100" y="210" fill="#eafff5" font-size="64" font-weight="700" letter-spacing="1">CYBER / DIGITAL</text>
+ <path d="M105 238H715" stroke="#00e69a" stroke-width="3"/>
+ <text x="108" y="280" fill="#9bfbd0" font-size="17" letter-spacing="3">DEVELOPMENT  •  NETWORKS  •  SECURITY</text>
+ <text x="108" y="345" fill="#3cbd8a" font-size="12" letter-spacing="4">SYSTEM ONLINE  //  CONTINUOUS LEARNING</text>
+</g>
+<path d="M30 30H85M30 30V85M1470 30H1415M1470 30V85M30 390H85M30 390V335M1470 390H1415M1470 390V335" fill="none" stroke="#00e99a" stroke-opacity=".7" stroke-width="2"/>
+</svg>

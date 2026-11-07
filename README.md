@@ -82,24 +82,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, interessado e
 
 Projeto acadêmico de sistema de gestão para barbearia, com foco em requisitos, regras de negócio, modelagem de dados e organização de sistemas.
 
-## <img src="https://img.shields.io/badge/05-GITHUB_ANALYTICS-00B981?style=flat-square&labelColor=050807" />
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaolabs04&show_icons=true&hide_border=true&bg_color=050807&title_color=00E6A0&icon_color=00E6A0&text_color=E9FFF5&rank_icon=github" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolabs04&layout=compact&hide_border=true&bg_color=050807&title_color=00E6A0&text_color=E9FFF5" alt="Linguagens mais usadas" />
-
-<br>
-
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaolabs04&hide_border=true&background=050807&ring=00E6A0&fire=00E6A0&currStreakLabel=00E6A0&sideLabels=E9FFF5&currStreakNum=E9FFF5&sideNums=E9FFF5&dates=8A9992" alt="Sequência de contribuições" />
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaolabs04&bg_color=050807&color=E9FFF5&line=00E6A0&point=00E6A0&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Gráfico de atividade no GitHub" />
-
-</div>
-
-## <img src="https://img.shields.io/badge/06-CONNECT-00B981?style=flat-square&labelColor=050807" />
+## <img src="https://img.shields.io/badge/05-CONNECT-00B981?style=flat-square&labelColor=050807" />
 
 <div align="center">
 

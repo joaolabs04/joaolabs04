@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=330&color=0:020806,35:063D2B,70:087B50,100:00E6A0&stroke=00F5A0&strokeWidth=2&text=CYBER%20%2F%20DIGITAL&fontColor=E9FFF5&fontSize=44&fontAlignY=46&desc=SYSTEMS%20DEVELOPMENT%20%E2%80%A2%20NETWORKS%20%E2%80%A2%20SECURITY&descSize=12&descAlignY=66&animation=twinkling" alt="Large green 3D geometric cyber banner" />
+<img width="100%" src="https://raw.githubusercontent.com/joaolabs04/joaolabs04/main/assets/cyber-banner.svg" alt="Large green 3D geometric cyber banner" />
 
 <br>
 

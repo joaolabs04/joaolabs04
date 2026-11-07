@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="440" viewBox="0 0 1500 440"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020706"/><stop offset=".5" stop-color="#061b14"/><stop offset="1" stop-color="#010403"/></linearGradient><linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b6ffe0"/><stop offset=".35" stop-color="#00f5a0"/><stop offset="1" stop-color="#087b50"/></linearGradient><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1affaa" stop-opacity=".85"/><stop offset=".45" stop-color="#08794f" stop-opacity=".62"/><stop offset="1" stop-color="#021b12" stop-opacity=".96"/></linearGradient><radialGradient id="aura"><stop stop-color="#00f5a0" stop-opacity=".24"/><stop offset="1" stop-color="#00f5a0" stop-opacity="0"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#44f7ae" stroke-opacity=".12"/></pattern></defs><rect width="1500" height="440" rx="20" fill="url(#bg)"/><rect width="1500" height="440" rx="20" fill="url(#grid)"/><ellipse cx="1135" cy="220" rx="380" ry="270" fill="url(#aura)"/><g fill="none" stroke-linecap="round"><path d="M-80 360L430 -40M-30 410L500 -10M40 450L560 20" stroke="#00e995" stroke-opacity=".23" stroke-width="2"/><path d="M1050 470L1510 80M1120 470L1580 120M980 440L1430 40" stroke="#00f5a0" stroke-opacity=".28" stroke-width="2"/><path d="M0 110L260 0M1240 440L1500 330" stroke="#a1ffda" stroke-opacity=".35" stroke-width="1.5"/></g><g font-family="JetBrains Mono,Consolas,monospace"><text x="105" y="105" fill="#61ffc0" font-size="15" letter-spacing="5">JOAOLABS04 / DIGITAL FRONTIER</text><text x="98" y="220" fill="#eafff5" font-size="66" font-weight="700" letter-spacing="-2">CYBER</text><text x="100" y="285" fill="#00efa0" font-size="49" font-weight="700" letter-spacing="2">/ DIGITAL</text><path d="M105 310H650L690 286" stroke="url(#neon)" stroke-width="3" fill="none" filter="url(#glow)"/><text x="108" y="355" fill="#a1fbd1" font-size="14" letter-spacing="3">DEVELOPMENT • NETWORKS • SECURITY</text><text x="108" y="390" fill="#4bbd8d" font-size="11" letter-spacing="4">LEARN // BUILD // SECURE</text></g><g transform="translate(1115 218)" filter="url(#glow)"><path d="M0 -176L152 -88L152 88L0 176L-152 88L-152 -88Z" fill="#03170f" stroke="url(#neon)" stroke-width="3"/><path d="M0 -176L152 -88L0 0L-152 -88Z" fill="#0c8052" stroke="#a5ffda" stroke-opacity=".8" stroke-width="2"/><path d="M-152 -88L0 0L0 176L-152 88Z" fill="#06432e" stroke="#00e995" stroke-width="2"/><path d="M152 -88L0 0L0 176L152 88Z" fill="url(#glass)" stroke="#72ffc5" stroke-width="2"/><path d="M0 -176L0 0L152 88M0 0L-152 88" fill="none" stroke="#c8ffe8" stroke-opacity=".75" stroke-width="2"/><path d="M-90 -124L0 -72L90 -124M-90 124L0 72L90 124" fill="none" stroke="#00f5a0" stroke-opacity=".55" stroke-width="2"/><path d="M-152 -88L-205 -140L-205 140L-152 88M152 -88L205 -140L205 140L152 88" fill="none" stroke="#00efa0" stroke-width="3"/><path d="M0 -176L0 -235M0 176L0 235M-152 0L-225 0M152 0L225 0" stroke="#a1ffda" stroke-width="2"/></g><g transform="translate(1115 218)" fill="none" stroke="#00efa0"><ellipse rx="275" ry="102" transform="rotate(-28)" stroke-opacity=".65" stroke-width="1.5"/><ellipse rx="255" ry="142" transform="rotate(36)" stroke-opacity=".38" stroke-width="1.5" stroke-dasharray="8 12"/><circle r="222" stroke-opacity=".34" stroke-dasharray="2 12"/><circle cx="240" cy="-74" r="7" fill="#aaffdc" stroke="none" filter="url(#glow)"/><circle cx="-215" cy="120" r="5" fill="#00efa0" stroke="none" filter="url(#glow)"/><circle cx="30" cy="-245" r="4" fill="#aaffdc" stroke="none" filter="url(#glow)"/></g><g font-family="monospace" font-size="10" fill="#5df5b2" opacity=".8"><text x="820" y="72">SYS://ACTIVE</text><text x="1300" y="380">SECURE_NODE_04</text><text x="760" y="395">[ 01 ] NETWORK / APPSEC / CODE</text></g><g stroke="#00f5a0" stroke-width="2" opacity=".8" fill="none"><path d="M28 28H90M28 28V90M1472 28H1410M1472 28V90M28 412H90M28 412V350M1472 412H1410M1472 412V350"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="440" viewBox="0 0 1500 440">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B18"/><stop offset=".52" stop-color="#10152B"/><stop offset="1" stop-color="#080D1D"/></linearGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#63F5E8"/><stop offset=".48" stop-color="#648BFF"/><stop offset="1" stop-color="#B27BFF"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8CF8F0" stop-opacity=".78"/><stop offset=".45" stop-color="#667DFF" stop-opacity=".38"/><stop offset="1" stop-color="#B17BFF" stop-opacity=".18"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#637DFF" stop-opacity=".32"/><stop offset="1" stop-color="#637DFF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8CA5FF" stroke-opacity=".10"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect width="1500" height="440" rx="22" fill="url(#bg)"/>
+<rect width="1500" height="440" rx="22" fill="url(#grid)"/>
+<ellipse cx="1110" cy="218" rx="430" ry="290" fill="url(#halo)"/>
+<ellipse cx="1080" cy="220" rx="245" ry="130" fill="#4D7BFF" opacity=".10" filter="url(#soft)"/>
+<g fill="none" stroke-linecap="round">
+  <path d="M0 330H270L340 260H510M0 365H220L310 275H430M1500 82H1330L1260 152H1160M1500 112H1370L1290 192H1210" stroke="url(#beam)" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M70 65H250L300 115H390M1430 350H1290L1230 290H1150" stroke="#9DB5FF" stroke-opacity=".30" stroke-width="1.5"/>
+  <path d="M85 0V92L150 157M1415 440V350L1350 285" stroke="#6DEBE4" stroke-opacity=".24" stroke-width="1.5"/>
+</g>
+<g fill="#A9B9FF" opacity=".6"><circle cx="270" cy="330" r="3"/><circle cx="510" cy="260" r="3"/><circle cx="1330" cy="82" r="3"/><circle cx="1160" cy="152" r="3"/><circle cx="300" cy="115" r="3"/><circle cx="1230" cy="290" r="3"/></g>
+<g transform="translate(1050 220)" filter="url(#glow)">
+  <path d="M0 -154L134 -77L134 77L0 154L-134 77L-134 -77Z" fill="#101B39" stroke="url(#beam)" stroke-width="2.5"/>
+  <path d="M0 -154L134 -77L0 0L-134 -77Z" fill="#263B70" fill-opacity=".92" stroke="#9CEFEF" stroke-opacity=".8" stroke-width="1.5"/>
+  <path d="M-134 -77L0 0V154L-134 77Z" fill="#142A4A" stroke="#6AABFF" stroke-opacity=".85" stroke-width="1.5"/>
+  <path d="M134 -77L0 0V154L134 77Z" fill="url(#glass)" stroke="#B49AFF" stroke-opacity=".9" stroke-width="1.5"/>
+  <path d="M0 -154V0M0 0L134 77M0 0L-134 77" fill="none" stroke="#D7FFFF" stroke-opacity=".8" stroke-width="2"/>
+  <path d="M-75 -111L0 -68L75 -111M-75 111L0 68L75 111" fill="none" stroke="#8DEFEA" stroke-opacity=".55" stroke-width="1.5"/>
+  <circle r="25" fill="#8AF5EE" opacity=".12"/><circle r="9" fill="#B8FFFF"/>
+</g>
+<g transform="translate(1050 220)" fill="none" stroke="url(#beam)">
+  <ellipse rx="270" ry="102" transform="rotate(-24)" stroke-opacity=".72" stroke-width="1.5"/>
+  <ellipse rx="235" ry="150" transform="rotate(34)" stroke-opacity=".42" stroke-width="1.5" stroke-dasharray="5 12"/>
+  <ellipse rx="315" ry="190" transform="rotate(-8)" stroke-opacity=".22" stroke-width="1" stroke-dasharray="2 13"/>
+  <circle cx="245" cy="-72" r="6" fill="#9FFFF6" stroke="none"/>
+  <circle cx="-218" cy="114" r="5" fill="#A58BFF" stroke="none"/>
+  <circle cx="24" cy="-205" r="4" fill="#9FFFF6" stroke="none"/>
+</g>
+<g transform="translate(690 220)" fill="none" stroke="#7CDDDC" stroke-opacity=".38">
+  <path d="M0 -110V-45M-32 -78H32M-95 0H-45M45 0H95M0 45V110" stroke-width="1.5"/>
+  <circle r="5" fill="#7CDDDC" stroke="none"/><circle cy="-110" r="3" fill="#7CDDDC" stroke="none"/><circle cx="-95" r="3" fill="#7CDDDC" stroke="none"/><circle cx="95" r="3" fill="#7CDDDC" stroke="none"/>
+</g>
+<g opacity=".32" fill="none" stroke="#8B9DDA">
+  <path d="M40 40H95M40 40V95M1460 40H1405M1460 40V95M40 400H95M40 400V345M1460 400H1405M1460 400V345" stroke-width="2"/>
+</g>
+<g fill="#A9B8E8" opacity=".45"><circle cx="590" cy="82" r="1.5"/><circle cx="630" cy="105" r="1.5"/><circle cx="560" cy="350" r="1.5"/><circle cx="1360" cy="70" r="1.5"/><circle cx="1280" cy="380" r="1.5"/><circle cx="180" cy="300" r="1.5"/><circle cx="420" cy="60" r="1.5"/></g>
+</svg>

@@ -32,6 +32,25 @@
 <br>
 
 <div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00E6A0&center=true&vCenter=true&width=720&lines=Estudante+de+ADS;Foco+em+Ciberseguran%C3%A7a;Explorando+AppSec%2C+Redes+e+Python;Aprendizado+cont%C3%ADnuo+%7C+Pr%C3%A1tica+real"
+    alt="Cybersecurity Typing Animation"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sanler7/sanler7/main/assets/terminal-animation.svg"
+    width="88%"
+    alt="Cybersecurity Terminal"
+  />
+</div>
+
+<br>
+
+<div align="center">
 
 # João Pedro
 
